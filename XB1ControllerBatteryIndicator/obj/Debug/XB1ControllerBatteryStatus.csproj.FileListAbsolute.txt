@@ -1,0 +1,7 @@
+F:\Workshop\XB1ControllerBatteryIndicator\XB1ControllerBatteryIndicator\obj\Debug\XB1ControllerBatteryStatus.csprojAssemblyReference.cache
+F:\Workshop\XB1ControllerBatteryIndicator\XB1ControllerBatteryIndicator\obj\Debug\MainWindow.g.cs
+F:\Workshop\XB1ControllerBatteryIndicator\XB1ControllerBatteryIndicator\obj\Debug\SystemTrayView.g.cs
+F:\Workshop\XB1ControllerBatteryIndicator\XB1ControllerBatteryIndicator\obj\Debug\App.g.cs
+F:\Workshop\XB1ControllerBatteryIndicator\XB1ControllerBatteryIndicator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Workshop\XB1ControllerBatteryIndicator\XB1ControllerBatteryIndicator\obj\Debug\XB1ControllerBatteryIndicator_MarkupCompile.cache
+F:\Workshop\XB1ControllerBatteryIndicator\XB1ControllerBatteryIndicator\obj\Debug\XB1ControllerBatteryIndicator_MarkupCompile.lref
