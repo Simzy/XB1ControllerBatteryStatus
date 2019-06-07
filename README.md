@@ -13,11 +13,12 @@ When a controller reaches low battery level, a notification is played if set via
 
 Controllers reported as working/being recognized so far:
 
-XBOne + dongle
-XBOne Elite + dongle
-XBOne S + dongle
-XBOne S + Bluetooth
-XB360
+* XBOne + dongle
+* XBOne Elite + dongle
+* XBOne S + dongle 
+* XBOne S + Bluetooth
+* XB360 
+
 Currently known issues/limitations:
 
-Initial recognition of a newly connected controller can take a while. It will be displayed as "waiting for battery level data" at first but should switch to battery level after ~10 seconds and a button press. (This is a limitation of the XInput API.)
+*Initial recognition of a newly connected controller can take a while. It will be displayed as "waiting for battery level data" at first but should switch to battery level after ~10 seconds and a button press. (This is a limitation of the XInput API.)
