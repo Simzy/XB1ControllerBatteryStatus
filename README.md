@@ -7,7 +7,7 @@ It was originally written for the XBox One controller since Microsoft dropped al
 
 When more than one controller is present, the tray icon will cycle through the status display every 5 seconds.
 
-https://camo.githubusercontent.com/6b8272e8d6af1d919fd611b3317989a03dcf39e0/68747470733a2f2f692e696d6775722e636f6d2f727857417375382e676966
+![Tray icon](https://i.imgur.com/rxWAsu8.gif "Tray icon cycling through multiple controllers")
 
 When a controller reaches low battery level, a notification is played if set via tray icon.
 
@@ -20,4 +20,4 @@ XBOne S + Bluetooth
 XB360
 Currently known issues/limitations:
 
-Initial recognition of a newly connected controller can take a while. It will be displayed as "waiting for battery level data" at first but should switch to battery level after ~10 seconds and a button press. (This might be a limitation of the XInput API.)
+Initial recognition of a newly connected controller can take a while. It will be displayed as "waiting for battery level data" at first but should switch to battery level after ~10 seconds and a button press. (This is a limitation of the XInput API.)
