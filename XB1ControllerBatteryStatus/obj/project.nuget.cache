@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1SAm+dugGrSqQz6nunVULBvH0zhikfKMkc3MRB/+OqagCeCg9l4ZFePKePZ5Xv8fbxbNWjKUkFfx6xqXZdOuA==",
+  "success": true,
+  "projectFilePath": "F:\\Workshop\\XB1ControllerBatteryStatus-master\\XB1ControllerBatteryStatus\\XB1ControllerBatteryStatus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simzy\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\caliburn.micro\\3.2.0\\caliburn.micro.3.2.0.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\caliburn.micro.autofacbootstrap\\3.0.1.17\\caliburn.micro.autofacbootstrap.3.0.1.17.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\caliburn.micro.core\\3.2.0\\caliburn.micro.core.3.2.0.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\costura.fody\\4.1.0\\costura.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\fody\\6.2.4\\fody.6.2.4.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\hardcodet.notifyicon.wpf\\1.0.8\\hardcodet.notifyicon.wpf.1.0.8.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\microsoft.net.compilers.toolset\\3.7.0\\microsoft.net.compilers.toolset.3.7.0.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\microsoft.windowsapicodepack-core\\1.1.0.2\\microsoft.windowsapicodepack-core.1.1.0.2.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\microsoft.windowsapicodepack-shell\\1.1.0\\microsoft.windowsapicodepack-shell.1.1.0.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\resource.embedder\\2.1.1\\resource.embedder.2.1.1.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\sharpdx.xinput\\4.2.0\\sharpdx.xinput.4.2.0.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\Simzy\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

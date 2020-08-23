@@ -2,7 +2,6 @@
 using System.Threading;
 using SharpDX.XInput;
 using Windows.UI.Notifications;
-using Windows.Data.Xml.Dom;
 using System.Collections.Generic;
 using System;
 using System.Collections.ObjectModel;
@@ -138,7 +137,7 @@ namespace XB1ControllerBatteryStatus
                                     }
                                 }
                             }
-                            Thread.Sleep(5000);
+                            Thread.Sleep(500);
                         }
                     }
                 }
@@ -147,7 +146,7 @@ namespace XB1ControllerBatteryStatus
                     TooltipText = Strings.ToolTip_NoController;
                     ActiveIcon = "Resources/battery_unknown.ico";
                 }
-                Thread.Sleep(1000);
+                Thread.Sleep(500);
             }
         }
 

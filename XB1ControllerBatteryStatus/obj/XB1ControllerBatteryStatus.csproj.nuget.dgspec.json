@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Workshop\\XB1ControllerBatteryStatus-master\\XB1ControllerBatteryStatus\\XB1ControllerBatteryStatus.csproj": {}
+  },
+  "projects": {
+    "F:\\Workshop\\XB1ControllerBatteryStatus-master\\XB1ControllerBatteryStatus\\XB1ControllerBatteryStatus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Workshop\\XB1ControllerBatteryStatus-master\\XB1ControllerBatteryStatus\\XB1ControllerBatteryStatus.csproj",
+        "projectName": "XB1ControllerBatteryStatus",
+        "projectPath": "F:\\Workshop\\XB1ControllerBatteryStatus-master\\XB1ControllerBatteryStatus\\XB1ControllerBatteryStatus.csproj",
+        "packagesPath": "C:\\Users\\Simzy\\.nuget\\packages\\",
+        "outputPath": "F:\\Workshop\\XB1ControllerBatteryStatus-master\\XB1ControllerBatteryStatus\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Simzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Caliburn.Micro": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Caliburn.Micro.AutofacBootstrap": {
+              "target": "Package",
+              "version": "[3.0.1.17, )"
+            },
+            "Caliburn.Micro.Core": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Costura.Fody": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.2.4, )"
+            },
+            "Hardcodet.NotifyIcon.Wpf": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Net.Compilers.Toolset": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "Microsoft.WindowsAPICodePack-Core": {
+              "target": "Package",
+              "version": "[1.1.0.2, )"
+            },
+            "Microsoft.WindowsAPICodePack-Shell": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Resource.Embedder": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "SharpDX": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "SharpDX.XInput": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "System.Threading.Tasks.Extensions": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
